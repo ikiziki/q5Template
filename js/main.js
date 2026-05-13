@@ -7,7 +7,7 @@ function setup() {
 }
 
 function draw() {
-	
+	background(theme.bg)
 }
 
 function update(deltaTime) {
