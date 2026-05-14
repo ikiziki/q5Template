@@ -12,12 +12,12 @@ function createTheme() {
 		return {
 			name: "dark",
 			bg: color(35),
-			fg: color(235)
+			fg: color(245)
 		};
 	} else {
 		return {
 			name: "light",
-			bg: color(235),
+			bg: color(245),
 			fg: color(35)
 		};
 	}
