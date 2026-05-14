@@ -7,7 +7,6 @@ function isDarkMode() {
 	return themeQuery.matches;
 }
 
-
 function createTheme() {
 	if (isDarkMode()) {
 		return {
